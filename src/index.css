@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;500;600;700;800;900&family=Poppins:wght@400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h2{
+    font-family: 'Merienda', sans-serif;
+}
+p{
+   font-family: 'Poppins', sans-serif;
+}
